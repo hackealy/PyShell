@@ -7,6 +7,7 @@ Execute o script do servidor em seu sistema local:
 $python3 server.py
 
 Crie um túnel local para a internet, usando a biblioteca "pyngrok" ou outro método que você preferir.
+$python3 tunnel.py
 
 Copie o endereço IP público ou a URL gerada pelo túnel e insira-o no script do cliente.
 
